@@ -1,4 +1,4 @@
-#Pacman Animation README
+Pacman Animation README
 Overview
 This project is a simple web-based animation featuring a Pacman character that moves back and forth across the screen. The animation is created using HTML, CSS, and JavaScript, allowing users to initiate the movement by clicking a button.
 
